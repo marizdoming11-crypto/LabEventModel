@@ -4,7 +4,7 @@ Procedural Programming
 In procedural programming, the program follows a sequence of instructions from beginning to end.
 The main code controls the order of operations and is responsible for calling the search functions.
 The program may read the user's input, validate it, send the request, and process the result step by step.
-The flow is mainly controlled by the procedure or main program rather than by independent events.
+The flow is mainlvy controlled by the procedure or main program rather than by independent events.
 Asynchronous results may require callbacks, promises, or other mechanisms to continue the procedure after the result arrives.
 
 Object-Oriented Programming (OOP)
